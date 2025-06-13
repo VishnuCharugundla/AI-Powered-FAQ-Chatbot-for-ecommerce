@@ -1,0 +1,8 @@
+Flask
+gunicorn
+openai
+pandas
+python-dotenv
+azure-storage-blob
+fuzzywuzzy
+python-Levenshtein
