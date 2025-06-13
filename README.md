@@ -51,8 +51,8 @@ User Query → Flask API → FAQ Matching (Fuzzy) → Response
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/VishnuCharugundla/AI-Powered-FAW-Chatbot-for-ecommerce.git
-cd AI-Powered-FAW-Chatbot-for-ecommerce
+git clone https://github.com/VishnuCharugundla/AI-Powered-FAQ-Chatbot-for-ecommerce.git
+cd AI-Powered-FAQ-Chatbot-for-ecommerce
 ```
 
 ### 2. Set Up Virtual Environment
